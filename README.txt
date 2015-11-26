@@ -6,7 +6,7 @@ This script gets data from PS3 controller via USB (on linux), extracts it and se
  - Write MAC address of the device
  - run the script ($ python main.py)
 
-In this project I only needed data for both analog sticks. For other keys, you have to check if flag is set on 6th element of "datas" array and when it is, you can get data on 7th element.
+In this project I only needed data for both analog sticks. For other keys, you have to check if flag is set on 6th element of *datas* array and when it is, you can get data on 7th element.
 
 
 The script was tested on/with:
