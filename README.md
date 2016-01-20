@@ -1,8 +1,8 @@
-# PS3 controller data bridge
+## PS3 controller data bridge
 
 This script gets data from PS3 controller via USB (on linux), extracts it and sends it to specified MAC address via PC's bluetooth. This was made as part of a quadcopter project (it's a STM32f3 based quadcopter - I will commit code here in the future).
 
-## Usage
+### Usage
  - Write MAC address of the device
  - run the script ($ python main.py)
 
